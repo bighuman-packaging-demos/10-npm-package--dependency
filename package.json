@@ -1,0 +1,9 @@
+{
+    "name": "@bighuman-packaging-demos/dependency",
+    "version": "0.1.0-npm-package",
+    "main": "./index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bighuman-packaging-demos/10-npm-package--dependency.git"
+    }
+}
